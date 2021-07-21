@@ -4,4 +4,4 @@ Repositório para utilização da tecnologica gh-pages para publicação de site
 
 ##Teste
 
-Para visualizar o site publicado, [**Clique aqui**](https://joaolucasgtr.github.io/curriculo/)
+Para visualizar o site publicado, [**Clique aqui**](https://antoninocalisto.github.io/curriculo/)
